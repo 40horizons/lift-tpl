@@ -1,4 +1,4 @@
-name := "LiftBasicExample"
+name := "LiftBasicExample (tpl)"
  
 scalaVersion := "2.9.1"
  
